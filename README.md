@@ -1,4 +1,6 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bvadorno)](https://github.com/bvadorno/github-profile-trophy)
+
+[![Bruno Vilhena Adorno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bvadorno)](https://github.com/bvadorno/github-readme-stats)
 
 <!--
 **bvadorno/bvadorno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
