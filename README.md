@@ -2,6 +2,9 @@
 
 [![Bruno Vilhena Adorno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bvadorno)](https://github.com/bvadorno/github-readme-stats)
 
+
+[![Latest videos](https://img.youtube.com/vi/PLRLl4zol4gADm1LeOGRyvfkdIw9LnlHlL/0.jpg)](https://www.youtube.com/watch?v=PLRLl4zol4gADm1LeOGRyvfkdIw9LnlHlL)
+
 <!--
 **bvadorno/bvadorno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
